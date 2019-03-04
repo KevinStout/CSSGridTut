@@ -44,6 +44,26 @@ body {
   letter-spacing: -1px;
 }
 
+p {
+  font-size: 30px;
+  border-bottom: 5px solid var(--yellow);
+  color: var(--black);    
+}  
+
+li{
+  font-size: 30px;
+  display: inline;
+  list-style-type: none;
+  margin: 5px;
+  padding: 0px 5px;
+  border-bottom: 5px solid var(--yellow);
+}
+
+a{  
+  color: var(--black);
+  text-decoration: none;
+}
+
 h1,
 h2,
 h3,
